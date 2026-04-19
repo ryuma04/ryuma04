@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saquib, just enjoying my unemployed days!!!
+# 👋 Hi, I'm Saquib
 
 ## 🧠 About Me
 - 🎓 Computer Engineering student who thought this field would be “fun”
