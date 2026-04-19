@@ -1,9 +1,9 @@
-Just a student trying to enjoy my unemployed days!!!
+Just a student building things!!
 
 ## 🧠 About Me
 -  Just a student who thought this field would be “fun”
 -  I build things that work… eventually
--  Currently exploring AI, ML...and don't know what comes next
+-  Exploring AI & ML… in hopes of making smarter decisions than before
 
 ---
 
