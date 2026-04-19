@@ -1,4 +1,4 @@
-Just a student building things!!
+Just a student building things...
 
 ## 🧠 About Me
 -  Just a student who thought this field would be “fun”
