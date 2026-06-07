@@ -19,10 +19,7 @@ Just a student building things...
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
----
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuma04&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
