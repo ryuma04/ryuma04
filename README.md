@@ -3,7 +3,7 @@ Just a student building things...
 ## 🧠 About Me
 -  Just a student who thought this field would be “fun”
 -  Building things that work… eventually
--  Exploring AI & ML… in hopes of making smarter decisions than before
+-  Exploring AI & ML… in hopes of making smarter decisions
 
 ---
 
